@@ -10,8 +10,8 @@ change list 13/6/2013
  added ,604,606,607,628,629,6200,6201,6202,6203,6205,6206   bearing sizes 
 */
 
-include <MCAD/units/metric.scad>
-include <MCAD/materials/materials.scad>
+include <../units/metric.scad>
+include <../materials/materials.scad>
 
 BEARING_INNER_DIAMETER = 0;
 BEARING_OUTER_DIAMETER = 1;

@@ -18,8 +18,8 @@
   */
 
 
-use <MCAD/array/translations.scad>
-include <MCAD/units/metric.scad>
+use <translations.scad>
+include <../units/metric.scad>
 
 /**
  * Rectangular array, i.e. place objects on a grid. @see mcad_generate_grid

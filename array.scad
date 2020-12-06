@@ -21,9 +21,9 @@
 // remove // from following line to run test
 Cubic_and_Radial_Array_Test();
 
-use <MCAD/array/polar.scad>
-use <MCAD/array/rectangular.scad>
-include <MCAD/units/metric.scad>
+use <array/polar.scad>
+use <array/rectangular.scad>
+include <units/metric.scad>
 
 module Cubic_and_Radial_Array_Test()
 {

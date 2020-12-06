@@ -7,7 +7,7 @@
  * License: LGPL 2.1
  */
 
-use <MCAD/shapes/triangles.scad>
+use <../shapes/triangles.scad>
 
 /**
  * TowerPro SG90 servo

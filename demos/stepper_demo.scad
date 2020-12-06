@@ -1,4 +1,4 @@
-include <MCAD/motors/stepper.scad>;
+include <../motors/stepper.scad>;
 
 // Demo, uncomment to show:
 nema_demo();

@@ -30,7 +30,7 @@ $fn=50;
 // a simple pinion and translation / rotation to make it mesh the rack
 // translate([0,-8.5,0])rotate([0,0,360/10/2]) pinion(4,10,10,5);
 
-include <MCAD/general/constants.scad>;
+include <../general/constants.scad>;
 
 
 

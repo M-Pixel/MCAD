@@ -5,9 +5,9 @@
  * Dual licenced under Creative Commons Attribution-Share Alike 3.0 and LGPL2 or later
  */
 
-include <MCAD/units/metric.scad>
-include <MCAD/units/us.scad>
-include <MCAD/materials/materials.scad>
+include <../units/metric.scad>
+include <../units/us.scad>
+include <../materials/materials.scad>
 
 // Parameters: 
 NemaModel = 0;

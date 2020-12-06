@@ -2,9 +2,9 @@
 
 // This library is dual licensed under the GPL 3.0 and the GNU Lesser General Public License as per http://creativecommons.org/licenses/LGPL/2.1/ .
 
-include <MCAD/general/math.scad>
-include <MCAD/units/metric.scad>
-include <MCAD/units/us.scad>
+include <../general/math.scad>
+include <../units/metric.scad>
+include <../units/us.scad>
 
 //generates a motor mount for the specified nema standard #.
 module stepper_motor_mount(nema_standard,slide_distance=0, mochup=true, tolerance=0) {

@@ -1,4 +1,4 @@
-include <MCAD/materials/visibonecolors.scad>;
+include <../materials/visibonecolors.scad>;
 
 module visibonecolorstest()
 {

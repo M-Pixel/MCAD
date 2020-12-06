@@ -17,8 +17,8 @@
  * 02110-1301  USA
  */
 
-use <MCAD/array/generic-multiply.scad>
-use <scad-utils/transformations.scad>
+use <generic-multiply.scad>
+use <../../scad-utils/transformations.scad>
 
 /**
  * Convert vector of points to vector of translation matrices

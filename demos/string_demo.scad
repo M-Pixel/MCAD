@@ -1,4 +1,4 @@
-include <MCAD/text/string.scad>;
+include <../text/string.scad>;
 
 // Uncomment this bloc to see how to use this library.
 

@@ -1,8 +1,8 @@
 //By Glen Chung, 2013.
 //Dual licenced under Creative Commons Attribution-Share Alike 3.0 and LGPL2 or later
 
-include <MCAD/units/metric.scad>;
-include <MCAD/materials/materials.scad>;
+include <../units/metric.scad>;
+include <../materials/materials.scad>;
 
 LINEAR_BEARING_dr = 0;  //Inscribed circle
 LINEAR_BEARING_D  = 1;  //Outer diameter

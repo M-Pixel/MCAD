@@ -29,7 +29,7 @@
  * organization now uses metric units.
  */
 
-include <MCAD/units/metric.scad>
+include <metric.scad>
 
 /*
  * Conversion to metric is defined by Roberts, R.W. (February 3, 1975).

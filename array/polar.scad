@@ -1,7 +1,7 @@
-include <MCAD/units/metric.scad>
-use <MCAD/array/translations.scad>
-use <MCAD/general/utilities.scad>
-use <scad-utils/transformations.scad>
+include <../units/metric.scad>
+use <translations.scad>
+use <../general/utilities.scad>
+use <../../scad-utils/transformations.scad>
 
 /**
   * Generate polar coordinates for polar-arrayed objects

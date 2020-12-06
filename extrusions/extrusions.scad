@@ -21,10 +21,10 @@
 // linear_extrude (height = 3.5) profile_square_tube(1.5, 1/8);
 //
 
-include <MCAD/extrusions/8020.scad>;
-include <MCAD/extrusions/makerbeam.scad>;
-include <MCAD/extrusions/misumi_hfs5.scad>;
-include <MCAD/extrusions/openbeam.scad>;
+include <8020.scad>;
+include <makerbeam.scad>;
+include <misumi_hfs5.scad>;
+include <openbeam.scad>;
 
 $fn = 24;
 

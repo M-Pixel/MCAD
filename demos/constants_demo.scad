@@ -1,4 +1,4 @@
-include <MCAD/general/constants.scad>;
+include <../general/constants.scad>;
 
 echo(const_e = const_e);
 echo(const_pi = const_pi);

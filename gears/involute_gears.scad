@@ -3,7 +3,7 @@
 // © 2010 by GregFrost, thingiverse.com/Amp
 // http://www.thingiverse.com/thing:3575 and http://www.thingiverse.com/thing:3752
 
-use <MCAD/general/utilities.scad>
+use <../general/utilities.scad>
 
 // Simple Test:
 gear (

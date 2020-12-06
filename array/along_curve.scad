@@ -5,7 +5,7 @@
  * Licenced under LGPL2 or later
  */
 
-include <MCAD/units/metric.scad>
+include <../units/metric.scad>
 
 /**
  * Place children $no times around $axis, with the first duplicate being unmoved

@@ -5,9 +5,9 @@
 //
 // β = angle of the chamfer (hexagon head)
 
-include <MCAD/units/metric.scad>
-include <MCAD/general/constants.scad>
-include <MCAD/fasteners/threads.scad>
+include <../units/metric.scad>
+include <../general/constants.scad>
+include <threads.scad>
 
 $fn = 36;
 

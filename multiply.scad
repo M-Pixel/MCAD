@@ -1,6 +1,6 @@
-include <MCAD/units/metric.scad>
-use <MCAD/array/along_curve.scad>
-use <MCAD/general/utilities.scad>
+include <units/metric.scad>
+use <array/along_curve.scad>
+use <general/utilities.scad>
 
 /**
  * @deprecated

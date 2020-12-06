@@ -290,7 +290,7 @@ union () {
 // Demo Application - copy into new file and uncomment or uncomment here but
 // without uncommenting the use <...> statement, then press F6 - Key 
 //
-// use <MCAD/3d_triangle.scad>;
+// use <3d_triangle.scad>;
 //$fn=50;
 //  h =4;
 //  r=2;

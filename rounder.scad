@@ -1,1 +1,1 @@
-use <MCAD/boxes.scad>
+use <boxes.scad>

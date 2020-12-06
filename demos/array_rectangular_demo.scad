@@ -1,4 +1,4 @@
-include <MCAD/array/rectangular.scad>;
+include <../array/rectangular.scad>;
 
 //center reference point 
 translate([0,0,0])

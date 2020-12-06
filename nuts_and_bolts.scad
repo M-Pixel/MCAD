@@ -1,6 +1,6 @@
 // THIS IS A BACKWARD COMPATIBILITY SHIM
 
-include <MCAD/fasteners/nuts_and_bolts.scad>
+include <fasteners/nuts_and_bolts.scad>
 
 // @deprecated
 module SKIPtestNutsAndBolts ()

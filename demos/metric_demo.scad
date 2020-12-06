@@ -1,4 +1,4 @@
-include <MCAD/units/metric.scad>;
+include <../units/metric.scad>;
 
 module metric_ruler(millimeters)
 {

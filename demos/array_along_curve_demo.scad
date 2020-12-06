@@ -1,4 +1,4 @@
-include <MCAD/array/along_curve.scad>;
+include <../array/along_curve.scad>;
 
 //center reference point 
 translate([0,0,0])

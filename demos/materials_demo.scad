@@ -1,4 +1,4 @@
-include <MCAD/materials/materials.scad>;
+include <../materials/materials.scad>;
 
 // Example, uncomment to view
 color_demo();

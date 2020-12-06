@@ -1,4 +1,4 @@
-include <MCAD/shapes/teardrop.scad>;
+include <../shapes/teardrop.scad>;
 
 module teardrop_demo(){
     translate([0, -30, 0]) flat_teardrop(5, 20, 90);

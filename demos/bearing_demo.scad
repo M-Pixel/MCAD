@@ -1,4 +1,4 @@
-include <MCAD/hardware/bearing.scad>;
+include <../hardware/bearing.scad>;
 
 // Example, uncomment to view
 test_bearing();

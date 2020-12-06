@@ -43,7 +43,7 @@
 
 //----------------------
 
-use <MCAD/shapes/2Dshapes.scad>
+use <2Dshapes.scad>
 
 // size is a vector [w, h, d]
 module box(width, height, depth) {

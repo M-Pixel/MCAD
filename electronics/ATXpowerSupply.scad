@@ -17,7 +17,7 @@
  *
 */
 
-include <MCAD/units/metric.scad>
+include <../units/metric.scad>
 
 
 ATX_outlines             = [86,140,150]; //!< metal box outline  

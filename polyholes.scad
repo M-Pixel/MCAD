@@ -1,4 +1,4 @@
-use <MCAD/shapes/polyhole.scad>
+use <shapes/polyhole.scad>
 
 // @deprecated
 module polyhole (h, d = undef, r = undef, center = false)

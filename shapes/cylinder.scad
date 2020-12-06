@@ -1,6 +1,6 @@
-include <MCAD/units/metric.scad>
-use <MCAD/shapes/polyhole.scad>
-use <MCAD/general/utilities.scad>
+include <../units/metric.scad>
+use <polyhole.scad>
+use <../general/utilities.scad>
 
 module mcad_rounded_cylinder (
     // same options as cylinder()

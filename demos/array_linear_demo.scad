@@ -1,4 +1,4 @@
-include <MCAD/array/linear.scad>;
+include <../array/linear.scad>;
 
 //center reference point 
 translate([0,0,0])

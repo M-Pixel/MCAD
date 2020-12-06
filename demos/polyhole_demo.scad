@@ -1,4 +1,4 @@
-include <MCAD/shapes/polyhole.scad>
+include <../shapes/polyhole.scad>
 
 module polyhole_demo(){
 difference() {

@@ -1,4 +1,4 @@
-include <MCAD/gears/rack_and_pinion.scad>;
+include <../gears/rack_and_pinion.scad>;
 
 // examples of usage
 // include this in your code:

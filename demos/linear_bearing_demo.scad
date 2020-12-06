@@ -1,4 +1,4 @@
-include <MCAD/hardware/linear_bearing.scad>;
+include <../hardware/linear_bearing.scad>;
 
 //examples
 linearBearing(model="LM8UU");

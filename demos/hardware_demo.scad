@@ -1,4 +1,4 @@
-include <MCAD/hardware/hardware.scad>;
+include <../hardware/hardware.scad>;
 
 rod(20);
 translate([rodsize * 2.5, 0, 0]) rod(20, true);
